@@ -10,7 +10,6 @@
 #include <string>
 using namespace std;
 #include "Taquin.h"
-#include "Leaderboard.h"
 #include <SFML/Graphics.hpp>
 using namespace sf;
 
